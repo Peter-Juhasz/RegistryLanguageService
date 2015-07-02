@@ -9,5 +9,6 @@ Features:
  -  Automatic formatting
  -  Quick info
  -  Documentation
+ -  Code Completion
  -  Outlining
  -  Diagnostics analyzers and code fixes
